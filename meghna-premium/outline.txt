@@ -1,0 +1,47 @@
+About us :
+	- title
+	- description
+
+Service :
+	-icon
+	-title
+	-Describtion
+Skills :
+	- title
+	- description
+
+	- skill name
+	- skill Rate
+
+Our Works:
+	- catogry
+	- name
+	- description
+	- image
+
+Teams :
+	- name
+	- Job title
+	- description
+	- facbook link
+	- twitterlink
+	- linked in link
+
+testmotinal :
+	- name
+	- created at
+	- text
+	- image
+Blogs :
+	-title
+	-author
+	- image
+	- desription
+	- puplished at
+
+Contact :
+	- text
+	- location
+	- phone
+	- fax
+	- Email
